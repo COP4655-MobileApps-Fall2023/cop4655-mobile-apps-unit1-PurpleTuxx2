@@ -4,39 +4,35 @@ first commit
 
 Submitted by: **Justin Rivera**
 
-**Dark Knight Database** is an app that introduces ... Backstory of Batman 
+**Dark Knight Database** is an app that introduces ... The Dark Knight, Batman! 
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
+- [X] Users are able to see a customized app icon and launch screen
 - [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Users are able to see at least 3 context items
-- [ ] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
+- [X] Users are able to see at least 3 context items
+- [X] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface through styling and coloring
-- [ ] Allow users to scroll when context items are off-screen (table view implemention)
+- [X] Improve and customize the user interface through styling and coloring
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
+Walkthrough:
+
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+The biggest challenge I encountered during this project was utilizing the constraints to get the app to work at a sideways orientation. I watched multiple videos on how to properly utilize constraints but soon realized that for this project, the constraints had to be specific to my images. I did what I could but was unable to get it exactly right. I will need to work more in the future in order to understand how constraints work because this project was rather straight forward for me in every aspect except constraints, which added 4 hours to this project on its own.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
