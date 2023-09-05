@@ -1,12 +1,12 @@
 first commit
 
-# Project 1 - *About Justin Rivera*
+# Project 1 - *Batman*
 
 Submitted by: **Justin Rivera**
 
-**Justin's Hobbies** is an app that introduces ... Things that Justin likes to do in his spare time. 
+**Dark Knight Database** is an app that introduces ... Backstory of Batman 
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
